@@ -17,5 +17,3 @@ Fair market value (FMV) is the price that a property would sell for on the open 
 An appraisal is a professional opinion of value. Comparable sales, also known as the "market data" approach, is the most common way to arrive at market value. Here, the recent sales of properties of similar stature are reviewed to inform judgment. 
 
 Other ways to determine the value of a home include the capitalization of income approach which values an investment based on the expectation of future benefits and the replacement cost new value approach which determines the current cost of constructing a property with the same utility using the current construction materials and adhering to current design standards and layouts.
-
-![image](https://github.com/abdulib/Identifying_Real-Estate_Investment_Opportunities_Using_ML/assets/43817084/faaad3a4-1935-453f-ae99-974ff5ffd896)
