@@ -1,4 +1,4 @@
-# Identifying_Real-Estate_Investment_Opportunities_Using_ML
+# Identifying Real Estate Investment Opportunities Using ML
 
 ## Defining The Problem (An Executive Level Report) 
 
@@ -13,6 +13,7 @@ Assumptions are that:
 •	Economic conditions are normal (usual) for fair market value of a house
 
 **An Approach Without Machine Learning**
+
 Fair market value (FMV) is the price that a property would sell for on the open market under usual conditions. FMV is often different from the actual market value or the appraised value and is used in some property tax evaluations. Market valuation comes down to two factors: real estate appraisals and recent comparable sales. 
 An appraisal is a professional opinion of value. Comparable sales, also known as the "market data" approach, is the most common way to arrive at market value. Here, the recent sales of properties of similar stature are reviewed to inform judgment. 
 
