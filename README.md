@@ -1,6 +1,6 @@
 # Identifying Real Estate Investment Opportunities Using ML
 
-## Defining The Problem (An Executive Level Report) 
+## Defining The Problem
 
 **Objective Of The Project**
 The objective of the project is to use machine learning to identify undervalued single-family homes for the purpose of real estate investment. We want to be able to know if a particular house listed for sale will be a good investment.
